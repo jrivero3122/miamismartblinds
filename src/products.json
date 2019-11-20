@@ -1,0 +1,71 @@
+{
+    "products": [
+    {
+      "id": 1,
+      "shortcut": "rollupshades",
+      "icon": "icon-pencil",
+      "title": "Roll-Up Shades",
+      "description": "",
+      "ofert1": "",
+      "ofert2": "",
+      "ofert3": "",
+      "url_img": "assets/images/portfolio/prshade1.jpg",
+      "text_button": "",
+      "url_button": ""
+    },
+    {
+        "id": 2,
+        "shortcut": "zebra",
+        "title": "Zebra Shades",
+        "price": "From: $499+tax",
+        "icon": "icon-bike",
+        "description": "More than 50 exclusive materials, free estimate in home and free installation",
+        "ofert1": "Offer 1: 5 Windows(36X49)",
+        "ofert2": "Offer 2: 2 Windows (36x49) 1 Slinding Door (74X96)",
+        "ofert3": "Offer 3: 1 Sliding Door (74x96) Motorized",
+        "contact_text": "Call or text to: 305 850 4985",
+        "url_img": "assets/images/portfolio/zebra1vert.jpg",
+        "text_button": "Online Estimate",
+        "url_button": ""
+    },
+    {
+        "id": 3,
+        "shortcut": "plantation",
+        "title": "Plantation Shutters",
+        "icon": "icon-gears",
+        "description": "",
+        "ofert1": "",
+        "ofert2": "",
+        "ofert3": "",
+        "url_img": "assets/images/portfolio/plantation1.jpg",
+        "text_button": "",
+        "url_button": ""
+    },
+    {
+        "id": 4,
+        "shortcut": "vertical",
+        "title": "Vertical Blinds",
+        "icon": "icon-tools",
+        "description": "",
+        "ofert1": "",
+        "ofert2": "",
+        "ofert3": "",
+        "url_img": "assets/images/portfolio/vertical1.jpg",
+        "text_button": "",
+        "url_button": ""
+    },
+    {
+        "id": 5,
+        "shortcut": "horizontal",
+        "title": "Horizontal Blinds",
+        "icon": "icon-tools",
+        "description": "",
+        "ofert1": "",
+        "ofert2": "",
+        "ofert3": "",
+        "url_img": "assets/images/portfolio/horizontal1.jpg",
+        "text_button": "",
+        "url_button": ""
+    }
+    ]
+  }

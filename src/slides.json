@@ -1,0 +1,36 @@
+{
+    "slides": [
+    {
+      "id": 1,
+      "title": "Miami Smart Blinds",
+      "description": "",
+      "url_img": "'./assets/images/smartblind1.jpg'",
+      "text_button": "Learn More",
+      "url_button": ""
+    },
+    {
+        "id": 2,
+        "title": "Roll-Up Shades",
+        "description": "Best Prices in Miami",
+        "url_img": "'./assets/images/rollershade1.jpg'",
+        "text_button": "Learn More",
+        "url_button": "#rollupshades"
+    },
+    {
+        "id": 3,
+        "title": "Zebra Shades",
+        "description": "YESS!!! From $499 5 windows and more offers below",
+        "url_img": "'./assets/images/zebra1.jpg'",
+        "text_button": "Wow!!! Get our offers",
+        "url_button": "#zebra"
+    },
+    {
+        "id": 4,
+        "title": "Plantation Shutters",
+        "description": "",
+        "url_img": "'./assets/images/shutters1.jpg'",
+        "text_button": "Learn More",
+        "url_button": "#plantation"
+    }
+    ]
+  }
